@@ -43,6 +43,7 @@ exclude:
   - CNAME
   - node_modules
   - assets/sass
+  - vendor/bundle
 
 # Plugin settings
 plugins:
